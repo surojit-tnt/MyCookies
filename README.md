@@ -1,8 +1,9 @@
 
 
 
-##👋 Hey, I'm Surojit!
-#AI/ML & Full-Stack Developer
+## 👋 Hey, I'm Surojit!
+
+# AI/ML & Full-Stack Developer
 Building scalable applications, exploring intelligent systems, and turning ideas into real-world projects.
 
 
